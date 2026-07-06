@@ -8,6 +8,11 @@
         "X-MCP-Readonly": "true",
         "X-MCP-Toolsets": "pull_requests,issues,repos"
       }
+    },
+    "workboard": {
+      "type": "http",
+      "url": "${WORKBOARD_URL}",
+      "headers": { "Authorization": "Bearer ${WORKBOARD_TOKEN}" }
     }
   }
 }
