@@ -1,0 +1,6 @@
+{
+  "enabledMcpjsonServers": ["workboard", "custom-gh-api"],
+  "permissions": {
+    "allow": ["mcp__workboard", "mcp__custom-gh-api"]
+  }
+}

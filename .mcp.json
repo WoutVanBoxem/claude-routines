@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "github": {
+    "custom-gh-api": {
       "type": "http",
       "url": "https://api.githubcopilot.com/mcp/",
       "headers": {
